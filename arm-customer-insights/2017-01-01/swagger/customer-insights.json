@@ -6,6 +6,7 @@
     "version": "2017-01-01"
   },
   "host": "management.azure.com",
+   "basePath": "/",
   "schemes": [
     "https"
   ],
